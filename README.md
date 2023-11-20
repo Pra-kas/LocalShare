@@ -36,7 +36,7 @@ pip install -r requirements.txt
 
 Deploy the backdoor on the target machine:
 
-```python client.py --target <TARGET_IP> --port <PORT>```
+```python client.py ```
 
 Interact with the backdoor using the server.
 
@@ -53,8 +53,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
    Socket Programming in Python
    Argparse Tutorial
    sql
-
-Replace `<TARGET_IP>` and `<PORT>` with the appropriate values for your Backdoor project. If you have specific URLs for the acknowledgments (like tutorials), replace `#` with the actual URLs.
 
 Feel free to further customize the content based on your project's specific details.
 
