@@ -30,12 +30,14 @@ pip install -r requirements.txt
 ### Usage
 - Start the server:
 
-```python server.py
+```
+python server.py
 ```                                                                                                                        
 
 - Deploy the backdoor on the target machine:
 
-```python client.py 
+```
+python client.py 
 ```
 
 Interact with the backdoor using the server.
