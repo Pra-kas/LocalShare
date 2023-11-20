@@ -27,16 +27,16 @@ Install dependencies:
 
 pip install -r requirements.txt
 
-###Usage
+### Usage
 - Start the server:
 
- ```bash
-   python server.py
+```python server.py
 ```                                                                                                                        
 
-Deploy the backdoor on the target machine:
+- Deploy the backdoor on the target machine:
 
-```python client.py ```
+```python client.py 
+```
 
 Interact with the backdoor using the server.
 
