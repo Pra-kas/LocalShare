@@ -32,7 +32,7 @@ pip install -r requirements.txt
 
  ```bash
    python server.py
-```
+```                                                                                                                        
 
 Deploy the backdoor on the target machine:
 
