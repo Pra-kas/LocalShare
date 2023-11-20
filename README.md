@@ -23,9 +23,6 @@ A simple backdoor implementation for educational purposes.
    ```bash
    git clone https://github.com/Pra-kas/Backdoor.git
    cd Backdoor
-Install dependencies:
-
-pip install -r requirements.txt
 
 ### Usage
 - Start the server:
