@@ -1,6 +1,6 @@
-# Backdoor
+# LocaShare
 
-A simple backdoor implementation for educational purposes.
+A simple localshare implementation for educational purposes.
 
 ## Features
 
@@ -21,7 +21,7 @@ A simple backdoor implementation for educational purposes.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Pra-kas/Backdoor.git
+   git clone https://github.com/Pra-kas/LocalShare.git
    cd Backdoor
 
 ### Usage
